@@ -1,0 +1,16 @@
+.heading{
+    background-color: black;
+    padding: 0 140px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.heading a{
+    color: white;
+    text-decoration: none;
+    margin-left: 36px;
+}
+.heading a:hover{
+    color: lightcoral;
+}
