@@ -25,10 +25,12 @@
 
 }
 .btn-product{
-    background-color: burlywood;
+    background-color: tomato;
+    color: white;
     position: absolute;
     width: 100%;
     border: none;
     bottom: 0;
+    right: 0;
     border-radius: 0px 0px 8px 8px;
 }
